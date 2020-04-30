@@ -1,0 +1,1 @@
+ keytool -genkeypair -v -keystore hkxkapp.keystore -alias lhxk-alias -keyalg RSA -keysize 2048 -validity 10000
